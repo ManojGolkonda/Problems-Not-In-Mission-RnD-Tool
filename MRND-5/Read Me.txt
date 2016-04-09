@@ -1,0 +1,13 @@
+1. date_eng.c --> given a date in the form of a string, print it in English.
+
+2. minrank.c --> Given a number, find its minmum rank i.e index number of the number when all possible permutations are taken with the digits of that number.
+
+3. mul.c --> Given two numbers, perform the multiollication and return the product without using arithmetic operators.
+
+4. pow_mod.c --> Given three unsigned integers x, y and a. Perform (pow(x,y) mod a).
+
+5. mul_others.c --> Given two integer arraya a and b. Take input in a and output in b. Find the product of all the elements except current index element in a and put result into b.
+
+6. sort_array_01.c --> Given an array consisting of only 0's and 1's. Sort the array in ascending order.
+
+Thank you. :) 
